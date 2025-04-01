@@ -2,7 +2,6 @@ import React, { useEffect, useRef } from "react";
 import bgOverlay from "../assets/rb_5729.png";
 import pen from "../assets/pen2.png";
 import gsap from "gsap";
-import "./Section1.css";
 
 
 const Layout = () => {
